@@ -1,0 +1,8 @@
+{
+  "name" : "Patrick Weaver",
+  "version" : "0.0.1",
+  "description" : "patrickweaver.xyz",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
